@@ -3,13 +3,15 @@ header {
   font-size: larger;
   text-align: center; 
 }
+#logo-container {
+  position: center;
+  top: 20px;
+  left: 20px;
+  z-index: 9999;
+max-width: 360px;}
 
 body {
-    background-color : daf2ff;
+    background-color : #daf2ff;
     }
-    img {
-      width: 100px;
-      height: auto;
-      margin-top: 80px;
-    }
+
   
