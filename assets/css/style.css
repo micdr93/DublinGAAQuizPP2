@@ -1,6 +1,9 @@
 header {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: larger; }
+  font-size: larger;
+  text-align: center; 
+}
+
 body {
     background-color : lightblue;
     }
