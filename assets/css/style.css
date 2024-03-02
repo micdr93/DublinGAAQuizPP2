@@ -14,4 +14,8 @@ body {
     background-color : #daf2ff;
     }
 
-  
+  p {   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center; 
+
+  }
