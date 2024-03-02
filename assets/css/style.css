@@ -7,3 +7,9 @@ header {
 body {
     background-color : lightblue;
     }
+    img {
+      width: 100px;
+      height: auto;
+      margin-top: 80px;
+    }
+  
